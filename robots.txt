@@ -1,3 +1,4 @@
+
 User-agent: Googlebot
 Disallow: 
 User-agent: googlebot-image
@@ -8,11 +9,7 @@ User-agent: MSNBot
 Disallow: 
 User-agent: Slurp
 Disallow: 
-User-agent: Teoma
-Disallow: 
 User-agent: baiduspider
-Disallow: 
-User-agent: psbot
 Disallow: 
 User-agent: yahoo-blogs/v3.9
 Disallow: 
@@ -20,4 +17,5 @@ User-agent: *
 Disallow: 
 Crawl-delay: 5
 Disallow: /cgi-bin/
-Sitemap: https://www.thai-electronic-house.org
+
+Sitemap: http://www.thai-electronic-house.org/mobile/
